@@ -6,7 +6,7 @@ Users are able to create a profile and record their own income and expense infor
  &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sevvalkatirci/income-expense-tracker/blob/main/images/Screenshot_20220605_140305.png" width="200"/> &nbsp; &nbsp;<img src="https://github.com/sevvalkatirci/income-expense-tracker/blob/main/images/Screenshot_20220605_141447.png" width="200"/> &nbsp; &nbsp;   <img src="https://github.com/sevvalkatirci/income-expense-tracker/blob/main/images/Screenshot_20220605_142032.png" width="200"/> 
 <br><br>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://github.com/sevvalkatirci/income-expense-tracker/blob/main/images/Screenshot_20220605_142050.png" width="200"/>  &nbsp; &nbsp; &nbsp; <img src="https://github.com/sevvalkatirci/income-expense-tracker/blob/main/images/Screenshot_20220605_142119.png" width="200"/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://github.com/sevvalkatirci/income-expense-tracker/blob/main/images/Screenshot_20220605_142050.png" width="200"/>  &nbsp; &nbsp; &nbsp; <img src="https://github.com/sevvalkatirci/income-expense-tracker/blob/main/images/Screenshot_20220605_142119.png" width="200"/>
 
 
 
