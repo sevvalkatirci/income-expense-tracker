@@ -3,10 +3,10 @@ Income and expense tracking application.
 It is designed as a user-friendly simple interface. 
 Users are able to create a profile and record their own income and expense information.
 
-<img src="https://github.com/sevvalkatirci/income-expense-tracker/blob/main/images/Screenshot_20220605_140305.png" width="200"/>    <img src="https://github.com/sevvalkatirci/income-expense-tracker/blob/main/images/Screenshot_20220605_141447.png" width="200"/>    <img src="https://github.com/sevvalkatirci/income-expense-tracker/blob/main/images/Screenshot_20220605_142032.png" width="200"/> 
-<br><br><br>
+<img src="https://github.com/sevvalkatirci/income-expense-tracker/blob/main/images/Screenshot_20220605_140305.png" width="200"/> &nbsp; &nbsp;<img src="https://github.com/sevvalkatirci/income-expense-tracker/blob/main/images/Screenshot_20220605_141447.png" width="200"/> &nbsp; &nbsp;   <img src="https://github.com/sevvalkatirci/income-expense-tracker/blob/main/images/Screenshot_20220605_142032.png" width="200"/> 
+<br><br>
 
-<img src="https://github.com/sevvalkatirci/income-expense-tracker/blob/main/images/Screenshot_20220605_142050.png" width="200"/>   <img src="https://github.com/sevvalkatirci/income-expense-tracker/blob/main/images/Screenshot_20220605_142119.png" width="200"/>
+<img src="https://github.com/sevvalkatirci/income-expense-tracker/blob/main/images/Screenshot_20220605_142050.png" width="200"/>  &nbsp; &nbsp; &nbsp; <img src="https://github.com/sevvalkatirci/income-expense-tracker/blob/main/images/Screenshot_20220605_142119.png" width="200"/>
 
 
 
