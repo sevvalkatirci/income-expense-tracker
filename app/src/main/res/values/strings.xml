@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="hint_transaction">Title...</string>
+    <string name="button_save">Save</string>
+    <string name="hint_amount">Amount...</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+</resources>
